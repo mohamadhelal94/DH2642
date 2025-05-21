@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # npm-tutorial
 tutorial version 5
 
@@ -69,4 +68,3 @@ To configure, locate the file "telemetry.config.json" in the root directory
 =======
 # DH2642
 Interaction Programming and the Dynamic Web
->>>>>>> 44f5d29ab48aae106a7c54acc139f3e5929b94cd
